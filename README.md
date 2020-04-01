@@ -5,4 +5,12 @@ This is a basic folder structure to to set up a new web project.
 
 It is mainly for Node.JS and React.JS apps but would be fine for other projects such as a static website.
 
-Some ideas and files pull from the [HTML5 Boilerplate](https://html5boilerplate.com/) project.
+Some ideas and files pull from the [HTML5 Boilerplate](https://html5boilerplate.com/) project. 
+
+## Usage
+
+Download or clone from this repo into your desired location:
+
+    git clone --depth=1 https://github.com/iambj/web-app-folder-template.git
+
+This clones with a shallow copy which is more suitable for a boilerplate.
