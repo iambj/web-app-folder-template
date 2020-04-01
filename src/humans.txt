@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brandon Johnson -- creator -- @iambj
+
+# THANKS
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript
+    HTML5 Boilerplate
+    Visual Studio Code, Affinity Designer
+    
