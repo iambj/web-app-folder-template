@@ -26,6 +26,8 @@ _Note: Be sure to edit the files as necessary because they are customized for re
 
 ### TODO
 
-1. Fix up babel
-2. Simplify CSS files
-3. CSS build process
+- [ ] Fix up babel
+- [ ] Simplify CSS files
+- [ ] CSS build process
+- [ ] Server configs
+- [ ] npm init version
